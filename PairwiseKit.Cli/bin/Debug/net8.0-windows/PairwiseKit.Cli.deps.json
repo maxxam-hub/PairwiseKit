@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PairwiseKit.Cli/1.0.0": {
+        "dependencies": {
+          "YamlDotNet": "15.1.6"
+        },
+        "runtime": {
+          "PairwiseKit.Cli.dll": {}
+        }
+      },
+      "YamlDotNet/15.1.6": {
+        "runtime": {
+          "lib/net8.0/YamlDotNet.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.1.6.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PairwiseKit.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YamlDotNet/15.1.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-T/cQEK/KHK96Q8kytJ4iUGDXg1/fj2Qtk6rCQeIlHYU1zTeyGVHW0QNZgREQyxZpygGMDMmrXNWt0sj5TsQnjA==",
+      "path": "yamldotnet/15.1.6",
+      "hashPath": "yamldotnet.15.1.6.nupkg.sha512"
+    }
+  }
+}
