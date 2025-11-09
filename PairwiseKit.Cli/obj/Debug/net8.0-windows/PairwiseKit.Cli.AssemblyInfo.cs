@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PairwiseKit.Cli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f704d5e2b1edd275605f1cdc480e0e09eefdfd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7c0adbd8ab6df2d9562de8d5debe1fc4f1b29fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("PairwiseKit.Cli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PairwiseKit.Cli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
