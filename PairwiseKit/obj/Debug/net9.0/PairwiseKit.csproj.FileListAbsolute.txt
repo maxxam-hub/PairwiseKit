@@ -1,0 +1,11 @@
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\bin\Debug\net9.0\PairwiseKit.deps.json
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\bin\Debug\net9.0\PairwiseKit.dll
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\bin\Debug\net9.0\PairwiseKit.pdb
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\PairwiseKit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\PairwiseKit.AssemblyInfoInputs.cache
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\PairwiseKit.AssemblyInfo.cs
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\PairwiseKit.csproj.CoreCompileInputs.cache
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\PairwiseKit.dll
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\refint\PairwiseKit.dll
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\PairwiseKit.pdb
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\ref\PairwiseKit.dll

@@ -1,0 +1,8 @@
+parameters:
+  Browser: [Chrome, Firefox, Safari]
+  OS: [Windows, macOS, Linux]
+  Auth: [SAML, Basic, OAuth]
+forbid:
+  - { Browser: "Safari", OS: "Windows" }
+  - { Auth: "SAML", OS: "Linux" }
+require: []

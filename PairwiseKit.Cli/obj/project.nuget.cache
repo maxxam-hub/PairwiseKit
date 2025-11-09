@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nn49VWRajfk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maxxi\\RiderProjects\\PairwiseKit\\PairwiseKit.Cli\\PairwiseKit.Cli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maxxi\\.nuget\\packages\\yamldotnet\\15.1.6\\yamldotnet.15.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}

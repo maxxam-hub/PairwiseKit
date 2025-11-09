@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairwiseKit", "PairwiseKit\PairwiseKit.csproj", "{A0DC6D61-C5DB-47B7-B052-9C159C48A5FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairwiseKit.Cli", "PairwiseKit.Cli\PairwiseKit.Cli.csproj", "{1B9324D3-B181-457E-B8B2-A8C63B8A7E81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0DC6D61-C5DB-47B7-B052-9C159C48A5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DC6D61-C5DB-47B7-B052-9C159C48A5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DC6D61-C5DB-47B7-B052-9C159C48A5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DC6D61-C5DB-47B7-B052-9C159C48A5FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B9324D3-B181-457E-B8B2-A8C63B8A7E81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B9324D3-B181-457E-B8B2-A8C63B8A7E81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B9324D3-B181-457E-B8B2-A8C63B8A7E81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B9324D3-B181-457E-B8B2-A8C63B8A7E81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
