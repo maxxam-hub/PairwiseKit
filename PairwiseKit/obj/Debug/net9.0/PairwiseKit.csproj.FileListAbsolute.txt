@@ -9,3 +9,4 @@ C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\PairwiseKi
 C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\refint\PairwiseKit.dll
 C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\PairwiseKit.pdb
 C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\ref\PairwiseKit.dll
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit\obj\Debug\net9.0\PairwiseKit.sourcelink.json

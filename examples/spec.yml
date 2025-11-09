@@ -1,6 +1,6 @@
 parameters:
-  Browser: [Chrome, Firefox, Safari]
-  OS: [Windows, macOS, Linux]
+  Browser: [Chrome, Firefox, Safari, Opera, Yandex]
+  OS: [Windows, macOS, Linux, Avrora]
   Auth: [SAML, Basic, OAuth]
 forbid:
   - { Browser: "Safari", OS: "Windows" }

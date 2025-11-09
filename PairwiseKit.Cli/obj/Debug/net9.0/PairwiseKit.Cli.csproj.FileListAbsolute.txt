@@ -17,3 +17,4 @@ C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit.Cli\obj\Debug\net9.0\refint
 C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit.Cli\obj\Debug\net9.0\PairwiseKit.Cli.pdb
 C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit.Cli\obj\Debug\net9.0\PairwiseKit.Cli.genruntimeconfig.cache
 C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit.Cli\obj\Debug\net9.0\ref\PairwiseKit.Cli.dll
+C:\Users\maxxi\RiderProjects\PairwiseKit\PairwiseKit.Cli\obj\Debug\net9.0\PairwiseKit.Cli.sourcelink.json
